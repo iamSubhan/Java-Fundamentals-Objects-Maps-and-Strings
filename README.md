@@ -8,6 +8,7 @@
     - Odd Occurences
     
   Stream API\
-    - Word Filter
+    - Word Filter\
+    - Largest 3 Numbers
     
   
