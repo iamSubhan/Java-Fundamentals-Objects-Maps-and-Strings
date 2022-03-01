@@ -11,6 +11,9 @@
   >Stream API\
     - Word Filter\
     - Largest 3 Numbers
+
+  >Homework\
+    - Count Chars in a String
     
 ---------------------------------------
 
