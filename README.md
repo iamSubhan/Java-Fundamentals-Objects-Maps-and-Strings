@@ -20,4 +20,5 @@
 2. Objects and Classes
   
   >Built-in API Classes \
-    - Sum Big Numbers
+    - Sum Big Numbers\
+    - Big Factorial
