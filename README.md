@@ -22,3 +22,6 @@
   >Built-in API Classes \
     - Sum Big Numbers\
     - Big Factorial
+
+  >Creating Custom Classes\
+    - Students
