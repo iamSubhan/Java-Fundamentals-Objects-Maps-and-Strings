@@ -25,3 +25,4 @@
 
   >Creating Custom Classes\
     - Students
+    - Students 2.0
