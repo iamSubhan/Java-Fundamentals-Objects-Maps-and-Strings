@@ -24,5 +24,5 @@
     - Big Factorial
 
   >Creating Custom Classes\
-    - Students
+    - Students\
     - Students 2.0
