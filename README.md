@@ -32,11 +32,4 @@
 
 3. Text Processing
   
-  >VVV \
-    - xx\
-    - xx
-
-  >VVV\
-    - xx\
-    - xx\
-    - XX
+  
